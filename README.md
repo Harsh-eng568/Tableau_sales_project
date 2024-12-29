@@ -4,7 +4,7 @@ Tableau-Dashboard
 About Dataset
 Dataset link:- https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
-tableau project link :- https://public.tableau.com/views/Tableausales_dataproject1/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+tableau project link :- https://public.tableau.com/views/PROJECTWOP/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 my profile in tableau link:-  https://public.tableau.com/app/profile/harsh.bhandari1137
 
